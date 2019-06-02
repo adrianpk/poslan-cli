@@ -1,4 +1,7 @@
-# poslan-cli
+# Poslan CLI
+
+A simple SPA to use [Poslan](https://github.com/adrianpk/poslan)
+
 
 ## Project setup
 ```
