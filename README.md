@@ -1,6 +1,6 @@
-# Poslan CLI
+# Poslan-cli
 
-A simple SPA to use [Poslan](https://github.com/adrianpk/poslan)
+A simple SPA client to use [Poslan](https://github.com/adrianpk/poslan)
 
 
 ## Project setup
